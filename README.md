@@ -1,5 +1,7 @@
 # Adaptive-Filter-using-LMS-Algorithm
 
+Problem statement is given in TPS DSP(1).pdf
+
 IMPLEMENTATION OF LMS FIR BASED ADAPTIVE FILTER FOR SYSTEM IDENTIFICATION – 
 DIGITAL SIGNAL PROCESSING.
 Language and Platform: MATLAB
